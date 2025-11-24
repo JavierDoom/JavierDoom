@@ -38,24 +38,24 @@ Me especializo en transformar datos crudos en insights que impulsen decisiones d
 
 ## 📁 Proyectos Destacados
 
-### 🔹 **1. Análisis A/B Testing – Impacto de cambios en conversión**  
+### 🔹 **1. Análisis del Comportamiento – Triple Ten**  
 📌 *Python | Pandas | Seaborn | Estadística*  
-Analicé la efectividad de una nueva versión de landing page mediante pruebas A/B, identificando cambios significativos en la conversión y recomendando su implementación.  
-👉 **[Ver proyecto](https://github.com/JavierDoom/ABTesting)**
+Analicé el experimento Triple Ten, creando embudos, comparando grupos A/A/B y generando recomendaciones basadas en datos.  
+👉 **[Ver proyecto](https://github.com/JavierDoom/TripleTen_Experiment_Analysis)**
 
 ---
 
-### 🔹 **2. Dashboard de Ventas Interactivo (Plotly Dash)**  
-📌 *Dash | Python | Visualización*  
-Construí un dashboard dinámico para monitorear ventas regionales, productos clave y tendencias temporales.  
-👉 **[Ver proyecto](https://github.com/JavierDoom/DashboardVentas)**
+### 🔹 **2. Tripleteen – Proyecto SPRINT7**  
+📌 *Python | SQL | Visualización*  
+Analicé datos de usuarios y conversiones para el Sprint 7 de Tripleteen, creando dashboards y reportes claros.  
+👉 **[Ver proyecto](https://github.com/JavierDoom/tripleteen-proyecto-SPRINT7)**
 
 ---
 
-### 🔹 **3. Modelo Predictivo de Churn**  
-📌 *Machine Learning | Scikit-learn*  
-Entrené un modelo para identificar clientes con alta probabilidad de abandono y propuse estrategias basadas en los insights obtenidos.  
-👉 **[Ver proyecto](https://github.com/JavierDoom/ChurnModel)**
+### 🔹 **3. Portafolio Data Analyst**  
+📌 *Python | Tableau | Dash | Visualización*  
+Desarrollo de portafolio técnico mostrando notebooks, dashboards interactivos y análisis completos de datasets variados.  
+👉 **[Ver proyecto](https://github.com/JavierDoom/Portafolio_Data_Analyst_)**
 
 ---
 
